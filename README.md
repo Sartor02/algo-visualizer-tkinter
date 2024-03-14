@@ -19,7 +19,7 @@ This is a Python application that visualizes various sorting algorithms step by 
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your-username/sorting-algorithm-visualizer.git
+    git clone https://github.com/Sartor02/algo-visualizer-tkinter.git
     ```
 
 2. Navigate to the project directory:
